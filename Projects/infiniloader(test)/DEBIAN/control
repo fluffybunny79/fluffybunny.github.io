@@ -1,0 +1,9 @@
+package: com.fluffybunny79.infiniloader
+Name: Infiniloader
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A wonderful test theme.
+Maintainer: Fluffybunny79
+Author: Fluffybunny79
+Section: Themes (Springboard)

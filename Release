@@ -1,0 +1,8 @@
+origin: Fluffybunny79's Private Repo
+Label: Fluffybunny79's Private  Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphonesos-arm
+Components: main
+Description: Fluffybunny79's Private Cydia Repo
