@@ -1,4 +1,4 @@
-package: com.fluffybunny.infiniloader(test)
+package: com.fluffybunny.infiniloader
 Name: Infiniloader
 Depends: winterboard
 Version: 1.0
