@@ -1,0 +1,15 @@
+Package: com.fluffybunny.infiniloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fluffybunny
+Depends: winterboard
+Filename: .//debs/com.fluffybunny.infiniloader_1.0_iphoneos-arm.deb
+Size: 151616
+MD5sum: ac947750ca39330f1953272559d4da81
+SHA1: 171a4c777644a0a48361a1b3475556fe7f658d23
+SHA256: 68294c6a01dbc8bbf35761dc48004f68f2c20ef0239fc6964f127a6f2b08bc69
+Section: Themes (Springboard)
+Description: A wonderful test theme.
+Author: Fluffybunny
+Name: Infiniloader
+
